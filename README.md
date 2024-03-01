@@ -18,6 +18,9 @@ Page Catcher is built using the following technologies:
 - **JavaScript:** Used for the functionality of the extension, such as saving and deleting links.
 - **Chrome Tabs API:** Used to interact with the Chrome tabs and to store them in the extension.
 
+## Output video
+
+https://github.com/zilladeepak/Page-Catcher/assets/78230969/14625d12-344a-4f66-873f-ef5200dfdb88
 
 ## Installation
 
